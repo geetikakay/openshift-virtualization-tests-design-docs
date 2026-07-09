@@ -6,3 +6,11 @@
 <!-- Please summarize the STP update here -->
 
 ### Special notes for your reviewer
+
+### Review Checklist
+
+**Reviewers:**
+- [ ] <!-- @reviewer — SIG name -->
+
+**Approvers:**
+- [ ] <!-- @approver — role -->
