@@ -33,7 +33,7 @@ This section documents the mandatory QE review process. The goal is to understan
 #### **1. Requirement & User Story Review Checklist**
 
 - [x] **Review Requirements**
-  - VEP 207 ([kubevirt/enhancements#208](https://github.com/kubevirt/enhancements/pull/208)) defines clear scope: GuestAgentPing probes only, annotation-based manual control. 
+  - VEP 207 ([kubevirt/enhancements#208](https://github.com/kubevirt/enhancements/pull/208)) defines clear scope: GuestAgentPing probes only, annotation-based manual control.
 
 - [x] **Understand Value and Customer Use Cases**
   - User stories:
